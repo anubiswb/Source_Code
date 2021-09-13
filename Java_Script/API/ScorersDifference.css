@@ -13,7 +13,7 @@
 .TS .standings_jdwel tbody td.rank{text-align:center;padding-left:5px}
 .TS .standings_jdwel tbody td.team{font-size:.8rem;text-align:right!important;font-weight:700;white-space:nowrap}
 .TS .standings_jdwel td.team_logo{vertical-align:initial}
-.TS .club-logo{width:26px;height:auto}
+.TS .club-logo{width:26px!important;height:auto}
 .TS .standings_jdwel tbody tr:first-child{color:RGB(44,118,53);background-color:rgb(228,252,213);border:RGB(214,233,196) solid 1px}
 .TS .standings_jdwel tbody tr:nth-of-type(2){color:RGB(44,118,53);background-color:rgb(235,252,224);border:RGB(214,233,196) solid 1px}
 .TS .standings_jdwel tbody tr:nth-of-type(3){color:RGB(44,118,53);background-color:rgb(242,255,234);border:RGB(214,233,196) solid 1px}

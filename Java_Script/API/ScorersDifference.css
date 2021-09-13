@@ -58,7 +58,7 @@
 @media screen and (max-width:480px){.TS .team-aria{width:22%}.TS .event_title_wrapper{width:56%}.TS .result{font-size:27px}.TS .match-data{padding:0 6px}.TS .match-data h4{font-size:9px}.TS .event_title_wrapper .matchTime{font-size:1.2em;margin-top:2px}.TS .matchStatus .status .date{font-size:8px;padding:0 5px 1px}.TS .alba_sports_events-team_title{font-size:10px;width:100%;height:29px;line-height:17px;margin:0}.TS .events-team_score{font-size:16px;width:38px}.TS .event_status_inner_coming{width:70px;padding:0 1px;font-size:10px;background:transparent;margin:0}.TS .table-title .title{font-size:15px}.TS .table-title{padding:0 8px}.TS .event_title_wrapper .match-data.live-match .live{font-size:12px;padding:2px 12px 4px}.TS .standings_jdwel thead th{padding:8px 4px 8px}.TS .standings_jdwel .match-left{display:none}.TS table .goal-plus-minus{display:none}.TS table .club-logo{width:20px;height:20px;min-width:20px}}
 .TS .scorers .row:nth-of-type(2n+1) {background: rgb(246,247,250);}
 .TS .scorers .player_photo {width: 70px;}
-.TS .player_photo {width: 50px;background: rgb(232,232,232);border-radius: 100%;}
+.TS .player_photo {width: 50px;background: rgb(232,232,232);border-radius: 50%!important;}
 .TS img { border-style: none;height: auto;max-width: 100%;}
 .TS .but button {padding: 10px;cursor: pointer;font-size: 17px;font-weight: 700;border: 0;border-radius: 3px;color:#fff;}
 .TS .but {margin: 0 0px 5px 0;overflow: hidden;display: grid;grid-template-columns: 1fr 1fr;gap: 15px;}

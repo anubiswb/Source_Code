@@ -6,7 +6,7 @@ if(typeof($) != 'undefined'){
 $.ajax({dataType: "json",url: "https://www.blogger.com/feeds/1068937706229710159/posts/default/3468113061472957148?alt=json",method: "GET",dataType: "jsonp",success: (data)=> {let IdBloge = data.entry.content.$t.replaceAll(' ','').replaceAll('</li></ul>','').replaceAll('<ulclass="domains"><li>','').split('</li><li>');
 if (IdBloge.includes(window.location.host)) {
     let $load=t=>{if(t.includes(".js")){let e=document.createElement("script");e.src=t,e.type="text/javascript",document.getElementsByTagName("head").item(0).append(e)}else{let e=document.createElement("link");e.rel="stylesheet",e.href=t,e.media="all",document.getElementsByTagName("head").item(0).append(e)}};
-    $load('https://pro.fontawesome.com/releases/v5.13.0/css/all.css');
+    $load('https://anubiswb.github.io/Source_Code/Java_Script/API/ScorersDifference.css');
     let RImage =(url1,url2)=>{console.clear();   console.log('%cAnubis Web','color:#ef770f;font-size:30PX;font-weight: 700'),console.log('%cwww.anubis-web.com','font-size: 18px;');if(document.querySelector('img[src*="'+url1+'"]')){document.querySelector('img[src*="'+url1+'"]').setAttribute('src',url2);}}
     let ApiMach =(key1,key2,clas)=>{$.ajax({url: "https://api.thingspeak.com/apps/thinghttp/send_request?api_key="+key1,success: (e)=>{$.ajax({url: "https://api.thingspeak.com/apps/thinghttp/send_request?api_key="+key2,success: (g)=>{
     if(document.querySelector(clas)){  

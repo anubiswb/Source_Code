@@ -68,3 +68,4 @@
 .TS .team.cell.col-9,.TS .goals_count.cell.col-2.p-0 {flex: none;width: 45%;display: inline-block;max-width: none;}
 .TS .row.trow.py-3 {overflow: hidden;}
 .TS{display: grid;}
+@media screen and (max-width:350px){.TS {margin: 0 -32px 0 0;}}

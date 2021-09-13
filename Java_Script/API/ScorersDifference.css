@@ -64,6 +64,6 @@
 .TS .but {margin: 0 0px 5px 0;overflow: hidden;display: grid;grid-template-columns: 1fr 1fr;gap: 15px;}
 .TS .but button.difference {background-color: #a62626;}
 .TS .but button.scorers{background-color: #0a0d37;}
-.TS div.scorers {display: none;}
+.TS div.scorers {display: none;    border: 2px solid #eee;}
 .TS .team.cell.col-9,.TS .goals_count.cell.col-2.p-0 {flex: none;width: 45%;display: inline-block;max-width: none;}
 .TS .row.trow.py-3 {overflow: hidden;}

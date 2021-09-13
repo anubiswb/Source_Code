@@ -1,0 +1,69 @@
+.TS .standings_jdwel{border-spacing:0;width:100%;min-width:100%;margin:0;text-align:center;font-size:12px;border:1px solid rgb(216,216,216);color:rgb(65,65,65);border-radius:2px;overflow:hidden;position:relative;font-family:Tajawal}
+.TS .standings_jdwel thead tr{background:rgb(31,32,36);border-bottom:2px solid rgb(230,231,241);color:#fff!important}
+.TS .standings_jdwel thead tr th{color:#fff}
+.TS .standings_jdwel tbody tr{background:rgb(255,255,255);position:relative;height:35px}
+.TS .standings_jdwel tbody tr:nth-of-type(2n+1){background:rgb(246,247,250)}
+.TS .standings_jdwel thead th{padding:10px;text-align:center;color:rgb(102,102,102);font-size:14px;border-bottom:none}
+.TS .standings_jdwel tbody tr:hover{background-color:whitesmoke!important}
+.TS th.won{border-bottom:2px solid #2cb767}
+.TS th.draw{border-bottom:2px solid #443bd0}
+.TS th.lost{border-bottom:2px solid #ff604f}
+.TS td.pts{font-weight:500}
+.TS .standings_jdwel tbody td{padding:6px;text-align:center!important;font-size:12px;background:0;vertical-align:middle;border:0!important;border-bottom:1px solid #eee!important}
+.TS .standings_jdwel tbody td.rank{text-align:center;padding-left:5px}
+.TS .standings_jdwel tbody td.team{font-size:.8rem;text-align:right!important;font-weight:700;white-space:nowrap}
+.TS .standings_jdwel td.team_logo{vertical-align:initial}
+.TS .club-logo{width:26px;height:auto}
+.TS .standings_jdwel tbody tr:first-child{color:RGB(44,118,53);background-color:rgb(228,252,213);border:RGB(214,233,196) solid 1px}
+.TS .standings_jdwel tbody tr:nth-of-type(2){color:RGB(44,118,53);background-color:rgb(235,252,224);border:RGB(214,233,196) solid 1px}
+.TS .standings_jdwel tbody tr:nth-of-type(3){color:RGB(44,118,53);background-color:rgb(242,255,234);border:RGB(214,233,196) solid 1px}
+.TS .standings_jdwel tbody tr:nth-of-type(4){background-color:rgba(255,255,221,0.77)}
+.TS .standings_jdwel tbody tr:nth-of-type(5){background-color:rgba(255,255,242,0.8)}
+.TS .standings_jdwel tbody tr:nth-of-type(18){background-color:RGB(255,238,238)}
+.TS .standings_jdwel tbody tr:nth-of-type(19){background-color:rgb(255,225,225)}
+.TS .standings_jdwel tbody tr:last-child{background-color:rgb(254,208,208);color:rgb(169,68,66)!important}
+.TS .club-logo{font-size:0}
+.TS .jdwel_frame .rank{padding-right:4px;font-size:1.0rem;font-weight:500;flex:0 0 8.3333333333%;max-width:8.3333333333%}
+.TS .scorers .photo{width:18%}
+.TS .scorers .col-6{flex:1}
+.TS .icon_this{display:none}
+.TS .scorers .team_name{color:#ac1830}
+.TS .scorers .badge .club-logo{display:none}
+.TS .scorers .col-2{flex:0 0 16.6666666667%;max-width:16.6666666667%;text-align:center}
+.TS .scorers .row{height:auto;align-items:center;padding:7px 0;display:flex;flex-wrap:wrap;margin-right:-15px;margin-left:-15px; background: rgb(255,255,255);border: solid 1px rgb(230,231,241);}
+.TS .scorers .row{border-collapse: collapse;border-spacing: 0;width: 100%;margin: 0;text-align: center;font-size: 12px; border: 0 solid rgb(255,255,255);color: rgb(65,65,65);border-radius: 2px;position: relative;}
+.TS .scorers .rank {padding-right: 4px;font-size: 1.0rem;font-weight: 500;flex: 0 0 8.3333333333%;max-width: 8.3333333333%;}
+.TS .scorers .player_photo{width:70px}
+.TS .scorers .goals_count span{font-size:1.4rem;display:inline-block;padding:0;font-weight:700;color:#ac1830;border-radius:50%}
+.TS .scorers .col-9{flex:0 0 75%;max-width:75%;}
+.TS .row.trow.py-3{padding:10px 0;font-size:16px;font-weight:700;text-align:right;border-bottom:0}
+.TS .sidebar .tarteb{margin-top:-10px}
+.TS .sidebar .tarteb a{border-bottom:1px solid #f0f2f5;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:10px;height:auto;margin-top:0;font-size:14.5px;font-weight:700;color:rgb(23,34,47);border-bottom:1px solid #eee;font-family:Tajawal}
+.TS .tarteb .post-outer{padding:0}
+.TS .tarteb .post-outer .inner-content::before{top:6px;height:calc(100% - 12px)}
+.TS .sidebar-widget .tarteb a img,.sidebar-wrapper .menu-item a img{display:inline-block;vertical-align:middle;margin-left:10px;width:30px;height:auto;padding:0}
+.TS .image{max-width:200px;display:inline-block}
+.TS .sidebar .tarteb a:hover{background:#f5f5f5}
+.TS .sidebar .tarteb a img{display:inline-block;vertical-align:middle;margin-left:10px;width:30px;height:auto;padding:0}
+.TS .alba-table{display:flex;flex-wrap:wrap;padding:0 1px;position:relative;margin:-1px auto}
+.TS .comp-logo{font-size:0}
+.TS .alba-table h2{box-sizing:border-box;flex-grow:1;width:100%;padding:0.8em 1.2em;overflow:hidden;list-style:none;width:33.33%;margin:0 0 0 0;justify-content:center;display:inline-flex;align-items:center;justify-content:center;background:rgb(255,255,255);border:1px solid rgb(216,216,216);margin:0 -1px}
+.TS .d-md-block{display:none}
+.TS .btn-jd{text-align:center}
+.TS .comp-logo{max-width:60px;height:auto}
+.TS .btn-jd span{font-size:13px;font-weight:700;display:block;text-align:center}
+.TS .alba-table h2:hover{background:#f5f5f5}
+@media (min-width:768px){.TS .standings_jdwel td.team{font-size:1rem!important}.TS .d-md-none{display:none!important}.TS .d-md-block{display:block!important}}
+@media screen and (max-width:600px){.TS .standings_jdwel .d-md-none{display:block}.TS .jdwel_frame.scorers.container{margin-right:-4px;margin-left:-4px;width:auto}.TS .alba-live-table{margin:-21px}.TS .team-aria .team,.TS .event_title_wrapper{height:80px}.TS .alba-team_logo{height:50px}.TS .alba-team_logo img{max-width:35px;max-height:35px}.TS .alba_sports_events-team_title{font-size:.7em}.TS .event_title_wrapper .matchTime{font-size:1.5em}.TS .matchStatus .status .date{font-size:9px}.TS .events-info span.mic{display:none}.TS .events-info span{padding:0 5px;width:50%}.TS .event_status_inner_coming{width:65px;padding:2px 5px 3px;font-size:12px;font-weight:700;margin:auto 10px}.TS .filter-days{padding:10px 10px}.TS div.alba-live-table div.contents{padding:0 10px 10px}.TS .single-jdwelpost .table-is-responsive{margin:0 -5px!important}.TS #jdwel_switcher{margin:0 -7px!important}.TS .single-jdwelgoolpost #the-post .entry-content{margin:0 -25px}.TS .row.trow.py-3{font-size:13px}.TS .jdwel_frame.scorers .row{font-size:10px;line-height:14.5px}}
+@media screen and (max-width:480px){.TS .team-aria{width:22%}.TS .event_title_wrapper{width:56%}.TS .result{font-size:27px}.TS .match-data{padding:0 6px}.TS .match-data h4{font-size:9px}.TS .event_title_wrapper .matchTime{font-size:1.2em;margin-top:2px}.TS .matchStatus .status .date{font-size:8px;padding:0 5px 1px}.TS .alba_sports_events-team_title{font-size:10px;width:100%;height:29px;line-height:17px;margin:0}.TS .events-team_score{font-size:16px;width:38px}.TS .event_status_inner_coming{width:70px;padding:0 1px;font-size:10px;background:transparent;margin:0}.TS .table-title .title{font-size:15px}.TS .table-title{padding:0 8px}.TS .event_title_wrapper .match-data.live-match .live{font-size:12px;padding:2px 12px 4px}.TS .standings_jdwel thead th{padding:8px 4px 8px}.TS .standings_jdwel .match-left{display:none}.TS table .goal-plus-minus{display:none}.TS table .club-logo{width:20px;height:20px;min-width:20px}}
+.TS .scorers .row:nth-of-type(2n+1) {background: rgb(246,247,250);}
+.TS .scorers .player_photo {width: 70px;}
+.TS .player_photo {width: 50px;background: rgb(232,232,232);border-radius: 100%;}
+.TS img { border-style: none;height: auto;max-width: 100%;}
+.TS .but button {padding: 10px;cursor: pointer;font-size: 17px;font-weight: 700;border: 0;border-radius: 3px;color:#fff;}
+.TS .but {margin: 0 0px 5px 0;overflow: hidden;display: grid;grid-template-columns: 1fr 1fr;gap: 15px;}
+.TS .but button.difference {background-color: #a62626;}
+.TS .but button.scorers{background-color: #0a0d37;}
+.TS div.scorers {display: none;}
+.TS .team.cell.col-9,.TS .goals_count.cell.col-2.p-0 {flex: none;width: 45%;display: inline-block;max-width: none;}
+.TS .row.trow.py-3 {overflow: hidden;}

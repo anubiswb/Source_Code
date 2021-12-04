@@ -39,6 +39,6 @@ RImage('https://www.as-goal.com:2053/wp-content/uploads/images/players/o_edouard
 
   
   });}else{
-      document.querySelector('.TS').innerHTML='<div style="text-align:center;background: #efefef;padding: 10px 20px;border-radius: 10px;display:block;margin: 0 auto;"><p style="font-size:20px;font-weight: 700;">الاضافة ليست مفعلة</p><a style="text-decoration: none;font-size: 16px;font-weight: 700;color: #ef770f;" href="//www.molvp.com/">مول في بي</a></div>';
+      document.querySelector('.TS').innerHTML='<div style="text-align:center;background: #efefef;padding: 10px 20px;border-radius: 10px;display:block;margin: 0 auto;"><p style="font-size:20px;font-weight: 700;">الاضافة ليست مفعلة</p><a style="text-decoration: none;font-size: 16px;font-weight: 700;color: #ef770f;" href="https://www.anubis-web.com">انوبيس ويب</a></div>';
 }});
   
